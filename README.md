@@ -22,6 +22,11 @@
 - [Whitepaper](https://docs.okp4.network/docs/whitepaper/abstract)
 - [Nodes & Validator Guide](https://docs.okp4.network/docs/nodes/introduction)
 
+## Block Explorers
+
+- [OKP4](https://explore.okp4.network/)
+- [Ping.pub](https://ping.pub/okp4%20testnet?testnet)
+
 ## You want to get involved? 😍
 
 Please submit a pull request if you know any resources that might be helpful to the community. ❤️
