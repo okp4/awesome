@@ -19,13 +19,16 @@
 - [Telegram](https://t.me/okp4network)
 - [Medium](https://blog.okp4.network/)
 - [Discord](https://discord.com/invite/okp4)
-- [Whitepaper](https://docs.okp4.network/docs/whitepaper/abstract)
-- [Nodes & Validator Guide](https://docs.okp4.network/docs/nodes/introduction)
 
 ## Block Explorers
 
 - [OKP4](https://explore.okp4.network/)
 - [Ping.pub](https://ping.pub/okp4%20testnet?testnet)
+
+## Documentation / Guides
+
+- [OKP4 Whitepaper](https://docs.okp4.network/docs/whitepaper/abstract)
+- [OKP4 Nodes & Validator Guide](https://docs.okp4.network/docs/nodes/introduction)
 
 ## You want to get involved? 😍
 
