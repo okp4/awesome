@@ -10,7 +10,7 @@
 
 ## Resources
 
-### Official OKP4 links
+### 💫 Official OKP4 links
 
 - [Website](https://okp4.network/)
 - [LinkedIn](https://www.linkedin.com/company/okp4-open-knowledge-platform-for)
@@ -20,16 +20,16 @@
 - [Medium](https://blog.okp4.network/)
 - [Discord](https://discord.com/invite/okp4)
 
-## Block Explorers
+## 🔭 Block Explorers
 
 - [OKP4](https://explore.okp4.network/)
 - [Ping.pub](https://ping.pub/okp4%20testnet?testnet)
 
-## Faucets
+## 🚰 Faucets
 
 - [OKP4 Nemeton](https://faucet.okp4.network)
 
-## Documentation / Guides
+## 📚 Documentation / Guides
 
 - [OKP4 Whitepaper](https://docs.okp4.network/docs/whitepaper/abstract)
 - [OKP4 Nodes & Validator Guide](https://docs.okp4.network/docs/nodes/introduction)
