@@ -25,6 +25,10 @@
 - [OKP4](https://explore.okp4.network/)
 - [Ping.pub](https://ping.pub/okp4%20testnet?testnet)
 
+## Faucets
+
+- [OKP4 Nemeton](https://faucet.okp4.network)
+
 ## Documentation / Guides
 
 - [OKP4 Whitepaper](https://docs.okp4.network/docs/whitepaper/abstract)
