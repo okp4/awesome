@@ -8,6 +8,20 @@
 [![contributor covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](https://github.com/okp4/.github/blob/main/CODE_OF_CONDUCT.md)
 [![license](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg?style=for-the-badge)](https://opensource.org/licenses/BSD-3-Clause)
 
+## Resources
+
+### Official OKP4 links
+
+- [Website](https://okp4.network/)
+- [LinkedIn](https://www.linkedin.com/company/okp4-open-knowledge-platform-for)
+- [Twitter](https://twitter.com/OKP4_Protocol)
+- [GitHub](https://github.com/okp4)
+- [Telegram](https://t.me/okp4network)
+- [Medium](https://blog.okp4.network/)
+- [Discord](https://discord.com/invite/okp4)
+- [Whitepaper](https://docs.okp4.network/docs/whitepaper/abstract)
+- [Nodes & Validator Guide](https://docs.okp4.network/docs/nodes/introduction)
+
 ## You want to get involved? 😍
 
 Please submit a pull request if you know any resources that might be helpful to the community. ❤️
