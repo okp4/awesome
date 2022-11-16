@@ -31,8 +31,8 @@
 
 ## 📚 Documentation / Guides
 
-- [OKP4 Whitepaper](https://docs.okp4.network/docs/whitepaper/abstract)
-- [OKP4 Nodes & Validator Guide](https://docs.okp4.network/docs/nodes/introduction)
+- [OKP4 Whitepaper](https://docs.okp4.network/whitepaper/abstract)
+- [OKP4 Nodes & Validator Guide](https://docs.okp4.network/nodes/introduction)
 
 ## You want to get involved? 😍
 
