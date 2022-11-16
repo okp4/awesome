@@ -12,6 +12,7 @@
 
 ### 💫 Official OKP4 links
 
+- [Linktree](https://linktr.ee/okp4)
 - [Website](https://okp4.network/)
 - [LinkedIn](https://www.linkedin.com/company/okp4-open-knowledge-platform-for)
 - [Twitter](https://twitter.com/OKP4_Protocol)
