@@ -1,0 +1,12 @@
+{
+    "ignorePatterns": [
+        {
+            "pattern": "^https://opensource.org/licenses/BSD-3-Clause"
+        }
+    ],
+    "timeout": "5s",
+    "retryOn429": true,
+    "retryCount": 3,
+    "fallbackRetryDelay": "10s",
+    "aliveStatusCodes": [200, 206, 999]
+}
