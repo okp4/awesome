@@ -43,6 +43,7 @@ jobs:
         with:
           use-quiet-mode: "yes"
           use-verbose-mode: "yes"
+          file-path: './README.md'
           base-branch: "main"
           config-file: ".mlc_config.json"
 
