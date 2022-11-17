@@ -44,6 +44,7 @@ jobs:
           use-quiet-mode: "yes"
           use-verbose-mode: "yes"
           file-path: './README.md'
+          check-modified-files-only: "yes"
           base-branch: "main"
           config-file: ".mlc_config.json"
 
