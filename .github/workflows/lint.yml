@@ -12,6 +12,7 @@ on:
 jobs:
   lint-commits:
     runs-on: ubuntu-22.04
+    if: github.actor != 'dependabot[bot]'
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
