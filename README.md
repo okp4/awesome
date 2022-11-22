@@ -35,6 +35,11 @@
 - [OKP4 Whitepaper](https://docs.okp4.network/whitepaper/abstract)
 - [OKP4 Nodes & Validator Guide](https://docs.okp4.network/nodes/introduction)
 
+## 📊 Dashboards
+
+- [Nemeton chain](https://dashboard.monitoring.okp4.space/public-dashboards/544a782e7fd9488c9ccfe68046c02cf8)
+- [Github](https://dashboard.monitoring.okp4.space/public-dashboards/6e71b5e261c042209ef0793db964b9bb)
+
 ## You want to get involved? 😍
 
 Please submit a pull request if you know any resources that might be helpful to the community. ❤️
