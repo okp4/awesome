@@ -44,7 +44,7 @@
 | Type            | URL                                        | Thanks To |
 |-----------------|--------------------------------------------|-----------|
 | `Nemeton` chain | <https://dashboard.monitoring.okp4.space/public-dashboards/544a782e7fd9488c9ccfe68046c02cf8> | [OKP4](https://github.com/okp4) |
-| `Nemeton` chain | <https://github.com/L0vd/OKP4/tree/main/Monitoring>                                          | [L0vd](https://github.com/L0vd/OKP4/tree/main/Monitoring) |
+| `Nemeton` chain | <http://95.216.2.219:3000/d/okp4/okp4-monitoring-by-l0vd?orgId=1&refresh=30s>                                          | [L0vd](https://github.com/L0vd/OKP4/tree/main/Monitoring) |
 | OKP4 github     | <https://dashboard.monitoring.okp4.space/public-dashboards/6e71b5e261c042209ef0793db964b9bb>                                          |  [OKP4](https://github.com/okp4) |
 
 ## You want to get involved? 😍
