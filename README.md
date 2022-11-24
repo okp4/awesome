@@ -36,11 +36,12 @@
 
 ## 📚 Documentation / Guides
 
-| Type                     | URL                                              | Thanks To                       |
-|--------------------------|--------------------------------------------------|---------------------------------|
-| Whitepaper               | <https://docs.okp4.network/whitepaper/abstract>  | [OKP4](https://github.com/okp4) |
-| Nodes & Validator Guide  | <https://docs.okp4.network/nodes/introduction>   | [OKP4](https://github.com/okp4) |
-| Nodes & Validator Guide  | <https://nodes.guru/okp4/setup-guide/en>         | [Nodes Guru](https://nodes.guru/) |
+| Type                    | URL                                             | Thanks To                         |
+| ----------------------- | ----------------------------------------------- | --------------------------------- |
+| Whitepaper              | <https://docs.okp4.network/whitepaper/abstract> | [OKP4](https://github.com/okp4)   |
+| Nodes & Validator Guide | <https://docs.okp4.network/nodes/introduction>  | [OKP4](https://github.com/okp4)   |
+| Nodes & Validator Guide | <https://nodes.guru/okp4/setup-guide/en>        | [Nodes Guru](https://nodes.guru/) |
+| Dev guidelines 👩‍💻       | <https://github.com/okp4/wiki>                  | [OKP4](https://github.com/okp4)   |
 
 ## 📊 Dashboards
 
