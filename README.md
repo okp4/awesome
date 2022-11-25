@@ -29,6 +29,7 @@
 | Ping Pub | <https://explorer.bccnodes.com/okp4>      | [BccNodes](https://github.com/BccNodes/)  |
 | Ping Pub | <https://ping.pub/okp4%20testnet?testnet> | [Ping Pub](https://github.com/ping-pub/)  |
 | Ping Pub | <http://explorers.l0vd.com/okp4-testnet>  | [L0vd](https://github.com/L0vd) |
+| Ping Pub | <https://exp.nodeist.net/t-okp4/staking>  | [Nodeist](https://github.com/Nodeist) |
 
 ## 🚰 Faucets
 
@@ -36,11 +37,12 @@
 
 ## 📚 Documentation / Guides
 
-| Type                    | URL                                             | Thanks To                         |
-| ----------------------- | ----------------------------------------------- | --------------------------------- |
-| Whitepaper              | <https://docs.okp4.network/whitepaper/abstract> | [OKP4](https://github.com/okp4)   |
-| Nodes & Validator Guide | <https://docs.okp4.network/nodes/introduction>  | [OKP4](https://github.com/okp4)   |
-| Nodes & Validator Guide | <https://nodes.guru/okp4/setup-guide/en>        | [Nodes Guru](https://nodes.guru/) |
+| Type                     | URL                                              | Thanks To                       |
+|--------------------------|--------------------------------------------------|---------------------------------|
+| Whitepaper               | <https://docs.okp4.network/whitepaper/abstract>  | [OKP4](https://github.com/okp4) |
+| Nodes & Validator Guide  | <https://docs.okp4.network/nodes/introduction>   | [OKP4](https://github.com/okp4) |
+| Nodes & Validator Guide  | <https://nodes.guru/okp4/setup-guide/en>         | [Nodes Guru](https://nodes.guru/) |
+| Nodes & Validator Guide  | <https://nodeist.net/t/okp4/Setupen/>            | [Nodeist](https://nodeist.net/) |
 | Dev guidelines 👩‍💻       | <https://github.com/okp4/wiki>                  | [OKP4](https://github.com/okp4)   |
 
 ## 📊 Dashboards
