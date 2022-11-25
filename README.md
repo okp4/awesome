@@ -42,8 +42,7 @@
 | Whitepaper               | <https://docs.okp4.network/whitepaper/abstract>  | [OKP4](https://github.com/okp4) |
 | Nodes & Validator Guide  | <https://docs.okp4.network/nodes/introduction>   | [OKP4](https://github.com/okp4) |
 | Nodes & Validator Guide  | <https://nodes.guru/okp4/setup-guide/en>         | [Nodes Guru](https://nodes.guru/) |
-| Nodes & Validator Guide  | <https://nodeist.net/t/okp4/Setupen/>         | [Nodes Guru](https://nodes.guru/) |
-| Nodes & Validator Guide  | <https://nodes.guru/okp4/setup-guide/en>         | [Nodeist](https://nodeist.net/) |
+| Nodes & Validator Guide  | <https://nodeist.net/t/okp4/Setupen/>            | [Nodeist](https://nodeist.net/) |
 
 ## 📊 Dashboards
 
