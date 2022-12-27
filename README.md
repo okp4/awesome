@@ -38,6 +38,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Ping Pub | <https://ping.pub/okp4%20testnet?testnet> | [Ping Pub](https://github.com/ping-pub/)  |
 | Ping Pub | <http://explorers.l0vd.com/okp4-testnet>  | [L0vd](https://github.com/L0vd) |
 | Ping Pub | <https://exp.nodeist.net/t-okp4/staking>  | [Nodeist](https://github.com/Nodeist) |
+| Ping Pub | <https://explorer.ppnv.space/okp4>        | [PPNV Service](https://github.com/sergiomateiko) |
 
 ## 🚰 Faucets
 
