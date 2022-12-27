@@ -55,6 +55,12 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Nodes & Validator Guide  | <https://nodeservice.nodersteam.com/title/testnets/okp4> | [[NODERS]TEAM](https://noders-stake.com/) |
 | Dev guidelines 👩‍💻       | <https://github.com/okp4/wiki>                  | [OKP4](https://github.com/okp4)   |
 
+## ⚙️ Services
+
+| Type                     | URL                                              | Thanks To                       |
+|--------------------------|--------------------------------------------------|---------------------------------|
+| API / RPC / gRPC / Seed Node / Live Peer / Addrbook / State Sync               | <https://ppnv.space/okp4>                        | [PPNV Service](https://ppnv.space) |
+
 ## 📊 Dashboards
 
 | Type            | URL                                        | Thanks To |
