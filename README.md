@@ -38,6 +38,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Ping Pub | <https://ping.pub/okp4%20testnet?testnet> | [Ping Pub](https://github.com/ping-pub/)  |
 | Ping Pub | <http://explorers.l0vd.com/okp4-testnet>  | [L0vd](https://github.com/L0vd) |
 | Ping Pub | <https://exp.nodeist.net/t-okp4/staking>  | [Nodeist](https://github.com/Nodeist) |
+| Ping Pub | <https://explorer.ppnv.space/okp4>        | [PPNV Service](https://ppnv.space) |
 
 ## 🚰 Faucets
 
@@ -53,6 +54,12 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Nodes & Validator Guide  | <https://nodeist.net/t/okp4/Setupen/>            | [Nodeist](https://nodeist.net/) |
 | Nodes & Validator Guide  | <https://nodeservice.nodersteam.com/title/testnets/okp4> | [[NODERS]TEAM](https://noders-stake.com/) |
 | Dev guidelines 👩‍💻       | <https://github.com/okp4/wiki>                  | [OKP4](https://github.com/okp4)   |
+
+## ⚙️ Services
+
+| Type                     | URL                                              | Thanks To                       |
+|--------------------------|--------------------------------------------------|---------------------------------|
+| API / RPC / gRPC / Seed Node / Live Peer / Addrbook / State Sync               | <https://ppnv.space/okp4>                        | [PPNV Service](https://ppnv.space) |
 
 ## 📊 Dashboards
 
