@@ -57,9 +57,9 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 ## ⚙️ Services
 
-| Type                     | URL                                              | Thanks To                       |
-|--------------------------|--------------------------------------------------|---------------------------------|
-| API / RPC / gRPC / Seed Node / Live Peer / Addrbook / State Sync               | <https://ppnv.space/okp4>                        | [PPNV Service](https://ppnv.space) |
+| API | RPC | gRPC | Seed Node | Live Peer | Addrbook | State Sync | URL                                              | Thanks To                          |
+|:---:|:---:|:----:|:---------:|:---------:|:--------:|:----------:|--------------------------------------------------|------------------------------------|
+|  ✅ |  ✅  |  ✅  |     ✅     |     ✅    |    ✅    |     ✅      | <https://ppnv.space/okp4\>                        | [PPNV Service](https://ppnv.space) |
 
 ## 📊 Dashboards
 
