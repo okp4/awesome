@@ -54,6 +54,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Nodes & Validator Guide  | <https://nodeist.net/t/Okp4/Setup/>            | [Nodeist](https://nodeist.net/) |
 | Nodes & Validator Guide  | <https://nodeservice.nodersteam.com/title/testnets/okp4> | [[NODERS]TEAM](https://noders-stake.com/) |
 | Dev guidelines 👩‍💻       | <https://github.com/okp4/wiki>                  | [OKP4](https://github.com/okp4)   |
+| OKP4 Snapshot guide      | <https://github.com/Kolot86/My-guides/blob/main/OKP4_Sanpshot_Guide/OKP4.md>| [Kolot](https://github.com/Kolot86)   |
 
 ## ⚙️ Services
 
