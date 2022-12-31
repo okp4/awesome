@@ -55,6 +55,8 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Nodes & Validator Guide  | <https://nodeservice.nodersteam.com/title/testnets/okp4> | [[NODERS]TEAM](https://noders-stake.com/) |
 | Dev guidelines 👩‍💻       | <https://github.com/okp4/wiki>                  | [OKP4](https://github.com/okp4)   |
 | OKP4 Snapshot guide      | <https://github.com/Kolot86/My-guides/blob/main/OKP4_Sanpshot_Guide/OKP4.md>| [Kolot](https://github.com/Kolot86)   |
+| Nodes & Validator Guide  | <https://github.com/cryptobtcbuyer/Testnet_guides/blob/main/OKP4/installation.md>| [cryptobtcbuyer](https://github.com/cryptobtcbuyer)   |
+| Monitoring and Alerting for Validators      | <https://github.com/cryptobtcbuyer/Testnet_guides/blob/main/OKP4/monitoring.md>| [cryptobtcbuyer](https://github.com/cryptobtcbuyer)   |
 
 ## ⚙️ Services
 
