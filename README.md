@@ -56,7 +56,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Dev guidelines 👩‍💻       | <https://github.com/okp4/wiki>                  | [OKP4](https://github.com/okp4)   |
 | OKP4 Snapshot guide      | <https://github.com/Kolot86/My-guides/blob/main/OKP4_Sanpshot_Guide/OKP4.md>| [Kolot](https://github.com/Kolot86)   |
 | Basic tools & Validator Guide | <https://github.com/Cumulo-pro/OKP4#readme> | [Cumulo](https://github.com/Cumulo-pro) |
-| FAQ OKP4 Validator | <https://github.com/Cumulo-pro/OKP4#readme> | [Cumulo](https://github.com/Cumulo-pro) |
+| FAQ OKP4 Validator | <https://medium.com/cumulo-pro/faq-okp4-validator-19e81661b101> | [Cumulo](https://github.com/Cumulo-pro) |
 
 ## ⚙️ Services
 
