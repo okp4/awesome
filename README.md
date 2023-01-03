@@ -55,6 +55,8 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Nodes & Validator Guide  | <https://nodeservice.nodersteam.com/title/testnets/okp4> | [[NODERS]TEAM](https://noders-stake.com/) |
 | Dev guidelines 👩‍💻       | <https://github.com/okp4/wiki>                  | [OKP4](https://github.com/okp4)   |
 | OKP4 Snapshot guide      | <https://github.com/Kolot86/My-guides/blob/main/OKP4_Sanpshot_Guide/OKP4.md>| [Kolot](https://github.com/Kolot86)   |
+| Basic tools & Validator Guide | <https://github.com/Cumulo-pro/OKP4#readme> | [Cumulo](https://github.com/Cumulo-pro) |
+| FAQ OKP4 Validator | <https://medium.com/cumulo-pro/faq-okp4-validator-19e81661b101> | [Cumulo](https://github.com/Cumulo-pro) |
 | TMKMS Guide      | <https://craving-for-knowledge.gitbook.io/craving_for_knowledge/testnets/okp4/tmkms>| [Craving_for_Knowledge](https://craving-for-knowledge.gitbook.io/craving_for_knowledge/)   |
 
 ## ⚙️ Services
@@ -69,6 +71,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |-----------------|--------------------------------------------|-----------|
 | `Nemeton` chain | <https://dashboard.monitoring.okp4.space/public-dashboards/544a782e7fd9488c9ccfe68046c02cf8> | [OKP4](https://github.com/okp4) |
 | `Nemeton` chain | <http://95.216.2.219:3000/d/okp4/okp4-monitoring-by-l0vd?orgId=1&refresh=30s>                                          | [L0vd](https://github.com/L0vd/OKP4/tree/main/Monitoring) |
+| `Nemeton-1` chain | <https://chain-monitor.cros-nest.com/d/Testnet/testnets?orgId=1&var-chain_id=okp4-nemeton-1> |  [Cros Nest](https://cros-nest.com) |
 | OKP4 github     | <https://dashboard.monitoring.okp4.space/public-dashboards/6e71b5e261c042209ef0793db964b9bb>                                          |  [OKP4](https://github.com/okp4) |
 
 ## You want to get involved? 😍
