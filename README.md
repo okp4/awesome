@@ -62,9 +62,10 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 ## ⚙️ Services
 
-| API | RPC | gRPC | Seed Node | Live Peer | Addrbook | State Sync | URL                                              | Thanks To                          |
+| API | RPC | gRPC | Seed Node | Live Peer | Addrbook | State / Quick Sync | URL                                              | Thanks To                          |
 |:---:|:---:|:----:|:---------:|:---------:|:--------:|:----------:|--------------------------------------------------|------------------------------------|
 |  ✅ |  ✅  |  ✅  |     ✅     |     ✅    |    ✅    |     ✅      | <https://ppnv.space/okp4>                        | [PPNV Service](https://ppnv.space) |
+|     |      |      |            |           |          |     ✅      | <https://quicksync.io>                           | [Chainlayer](https://quicksync.io) |
 
 ## 📊 Dashboards
 
