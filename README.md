@@ -67,6 +67,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |  ✅ |  ✅  |  ✅  |     ✅     |     ✅    |    ✅    |     ✅      | <https://ppnv.space/okp4>                        | [PPNV Service](https://ppnv.space) |
 |     |      |      |            |           |          |     ✅      | <https://quicksync.io>                           | [Chainlayer](https://quicksync.io) |
 | ✅  |  ✅  |  ✅ |            |     ✅   |  ✅       |     ✅      | <https://mellifera.network/manuals/okp4.html>     | [MELLIFERA](https://mellifera.network)  |
+| ✅  |  ✅  |  ✅ |            |     ✅   |  ✅       |     ✅      | <https://nodeist.net/t/Okp4>     | [Nodeist](https://nodeist.net)  |
 
 ## 📊 Dashboards
 
@@ -77,6 +78,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | `Nemeton-1` chain | <https://chain-monitor.cros-nest.com/d/Testnet/testnets?orgId=1&var-chain_id=okp4-nemeton-1> |  [Cros Nest](https://cros-nest.com) |
 | OKP4 github     | <https://dashboard.monitoring.okp4.space/public-dashboards/6e71b5e261c042209ef0793db964b9bb>                                          |  [OKP4](https://github.com/okp4) |
 | `Nemeton-1` chain | <https://okp4-testnet.mellifera.network/monitor> | [MELLIFERA](https://mellifera.network)|
+| Nodeist Dashboard | <https://okp4-monitor.nodeist.net/d/cosmos_validator/okp4?orgId=1&refresh=1m>                                          |  [Nodeist](https://github.com/Nodeist) |
 
 ## You want to get involved? 😍
 
