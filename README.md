@@ -62,10 +62,14 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 ## ⚙️ Services
 
-| API | RPC | gRPC | Seed Node | Live Peer | Addrbook | State Sync | URL                                              | Thanks To                          |
+| API | RPC | gRPC | Seed Node | Live Peer | Addrbook | State / Quick Sync | URL                                              | Thanks To                          |
 |:---:|:---:|:----:|:---------:|:---------:|:--------:|:----------:|--------------------------------------------------|------------------------------------|
 |  ✅ |  ✅  |  ✅  |     ✅     |     ✅    |    ✅    |     ✅      | <https://ppnv.space/okp4>                        | [PPNV Service](https://ppnv.space) |
-|  ✅ |  ✅  |  ✅  |            |     ✅    |    ✅    |     ✅      | <http://cumulo.pro/en/okp4/>                        | [Cumulo](http://cumulo.pro) |
+|     |      |      |            |           |          |     ✅      | <https://quicksync.io>                           | [Chainlayer](https://chainlayer.io) |
+|  ✅   |   ✅   |    |     ✅       |      ✅     |   ✅        |     ✅      | <https://quickapi.com>                           | [Chainlayer](https://chainlayer.com) |
+| ✅  |  ✅  |  ✅ |            |     ✅   |  ✅       |     ✅      | <https://mellifera.network/manuals/okp4.html>     | [MELLIFERA](https://mellifera.network)  |
+| ✅  |  ✅  |  ✅ |            |     ✅   |  ✅       |     ✅      | <https://nodeist.net/t/Okp4>     | [Nodeist](https://nodeist.net)  |
+| ✅ |  ✅  |  ✅  |            |     ✅    |    ✅    |     ✅      | <http://cumulo.pro/en/okp4/>                        | [Cumulo](http://cumulo.pro) |
 
 
 ## 📊 Dashboards
@@ -76,6 +80,8 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | `Nemeton` chain | <http://95.216.2.219:3000/d/okp4/okp4-monitoring-by-l0vd?orgId=1&refresh=30s>                                          | [L0vd](https://github.com/L0vd/OKP4/tree/main/Monitoring) |
 | `Nemeton-1` chain | <https://chain-monitor.cros-nest.com/d/Testnet/testnets?orgId=1&var-chain_id=okp4-nemeton-1> |  [Cros Nest](https://cros-nest.com) |
 | OKP4 github     | <https://dashboard.monitoring.okp4.space/public-dashboards/6e71b5e261c042209ef0793db964b9bb>                                          |  [OKP4](https://github.com/okp4) |
+| `Nemeton-1` chain | <https://okp4-testnet.mellifera.network/monitor> | [MELLIFERA](https://mellifera.network)|
+| Nodeist Dashboard | <https://okp4-monitor.nodeist.net/d/cosmos_validator/okp4?orgId=1&refresh=1m>                                          |  [Nodeist](https://github.com/Nodeist) |
 
 ## You want to get involved? 😍
 
