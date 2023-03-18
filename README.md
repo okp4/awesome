@@ -59,6 +59,8 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | FAQ OKP4 Validator | <https://medium.com/cumulo-pro/faq-okp4-validator-19e81661b101> | [Cumulo](https://github.com/Cumulo-pro) |
 | OKP4 Community of Validators Resources | <https://medium.com/cumulo-pro/okp4-community-of-validators-resources-f3e5b2b4d2f7> | [Cumulo](https://github.com/Cumulo-pro) |
 | TMKMS Guide      | <https://craving-for-knowledge.gitbook.io/craving_for_knowledge/testnets/okp4/tmkms>| [Craving_for_Knowledge](https://craving-for-knowledge.gitbook.io/craving_for_knowledge/)   |
+| Nodes & Validator Guide  | <https://github.com/cryptobtcbuyer/Testnet_guides/blob/main/OKP4/installation.md>| [cryptobtcbuyer](https://github.com/cryptobtcbuyer)   |
+| Monitoring and Alerting for Validators      | <https://github.com/cryptobtcbuyer/Testnet_guides/blob/main/OKP4/monitoring.md>| [cryptobtcbuyer](https://github.com/cryptobtcbuyer)   |
 
 ## ⚙️ Services
 
