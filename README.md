@@ -68,7 +68,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |:---:|:---:|:----:|:---------:|:---------:|:--------:|:----------:|--------------------------------------------------|------------------------------------|
 |  ✅ |  ✅  |  ✅  |     ✅     |     ✅    |    ✅    |     ✅      | <https://ppnv.space/okp4>                        | [PPNV Service](https://ppnv.space) |
 |     |      |      |            |           |          |     ✅      | <https://quicksync.io>                           | [Chainlayer](https://chainlayer.io) |
-|  ✅   |   ✅   |    |     ✅       |      ✅     |   ✅        |     ✅      | <https://quickapi.com>                           | [Chainlayer](https://chainlayer.com) |
+|  ✅   |   ✅   |    |     ✅       |      ✅     |   ✅        |     ✅      | <https://quickapi.com>                           | [Chainlayer](https://chainlayer.io) |
 | ✅  |  ✅  |  ✅ |            |     ✅   |  ✅       |     ✅      | <https://mellifera.network/manuals/okp4.html>     | [MELLIFERA](https://mellifera.network)  |
 | ✅  |  ✅  |  ✅ |            |     ✅   |  ✅       |     ✅      | <https://nodeist.net/t/Okp4>     | [Nodeist](https://nodeist.net)  |
 
