@@ -53,7 +53,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Nodes & Validator Guide  | <https://nodes.guru/okp4/setup-guide/en>         | [Nodes Guru](https://nodes.guru/) |
 | Nodes & Validator Guide  | <https://nodeist.net/t/Okp4/Setup/>            | [Nodeist](https://nodeist.net/) |
 | Nodes & Validator Guide  | <https://nodeservice.nodersteam.com/title/testnets/okp4> | [[NODERS]TEAM](https://noders-stake.com/) |
-| Dev guidelines 👩‍💻       | <https://github.com/okp4/wiki>                  | [OKP4](https://github.com/okp4)   |
+| Dev guidelines 👩‍💻       | <https://work.okp4.com/dev/dev-home>                  | [OKP4](https://github.com/okp4)   |
 | OKP4 Snapshot guide      | <https://github.com/Kolot86/My-guides/blob/main/OKP4_Sanpshot_Guide/OKP4.md>| [Kolot](https://github.com/Kolot86)   |
 | Basic tools & Validator Guide | <https://github.com/Cumulo-pro/OKP4#readme> | [Cumulo](https://github.com/Cumulo-pro) |
 | FAQ OKP4 Validator | <https://medium.com/cumulo-pro/faq-okp4-validator-19e81661b101> | [Cumulo](https://github.com/Cumulo-pro) |
