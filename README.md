@@ -39,6 +39,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Ping Pub | <http://explorers.l0vd.com/okp4-testnet>  | [L0vd](https://github.com/L0vd) |
 | Ping Pub | <https://exp.nodeist.net/t-okp4/staking>  | [Nodeist](https://github.com/Nodeist) |
 | Ping Pub | <https://explorer.ppnv.space/okp4>        | [PPNV Service](https://ppnv.space) |
+| ATOMScan | <https://atomscan.com/testnet/okp4testnet>        | [ATOMScan](https://atomscan.com/) |
 
 ## 🚰 Faucets
 
