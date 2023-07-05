@@ -1,0 +1,25 @@
+{
+  "name": "okp4-readme",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrglaznyov/okp4-README.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrglaznyov/okp4-README/issues"
+  },
+  "homepage": "https://github.com/alexandrglaznyov/okp4-README#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "fs": "^0.0.1-security",
+    "link-check": "^5.2.0",
+    "markdown-it": "^13.0.1"
+  }
+}
