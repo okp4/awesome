@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexandrglaznyov/okp4-README.git"
+    "url": "git+https://github.com/okp4/awesome.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alexandrglaznyov/okp4-README/issues"
+    "url": "https://github.com/okp4/awesome/issues"
   },
-  "homepage": "https://github.com/alexandrglaznyov/okp4-README#readme",
+  "homepage": "https://github.com/okp4/awesome#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "fs": "^0.0.1-security",
