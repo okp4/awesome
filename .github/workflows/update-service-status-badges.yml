@@ -4,12 +4,12 @@ on:
     branches:
       - main
     paths:
-      - '**/README.md'
+      - "**/README.md"
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 jobs:
-  run-script:
+  update-status-badges:
     runs-on: ubuntu-22.04
     permissions:
       contents: write
@@ -19,7 +19,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '18'
+          node-version: "18"
       - name: Install dependencies
         run: npm install
         working-directory: .github/scripts
