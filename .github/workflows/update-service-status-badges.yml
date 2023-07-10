@@ -4,28 +4,37 @@ on:
     branches:
       - main
     paths:
-      - '**/README.md'
+      - "**/README.md"
+
   workflow_dispatch:
+
   schedule:
     - cron: "0 0 * * *"
 jobs:
-  run-script:
+  update-status-badges:
     runs-on: ubuntu-22.04
     permissions:
       contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '18'
+          node-version: "18"
+
       - name: Install dependencies
         run: npm install
         working-directory: .github/scripts
+
       - name: Run script
         run: node .github/scripts/markdown-table-link-check.js
+
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
+          commit_user_name: ${{ secrets.OKP4_BOT_GIT_COMMITTER_NAME }}
+          commit_user_email: ${{ secrets.OKP4_BOT_GIT_COMMITTER_EMAIL }}
+          commit_author: ${{ secrets.OKP4_BOT_GIT_AUTHOR_NAME }} <${{ secrets.OKP4_BOT_GIT_AUTHOR_EMAIL }}>
           commit_message: "docs: update url service status badges"
