@@ -1,4 +1,4 @@
-name: Check Links
+name: Update Services Status Badges
 on:
   push:
     branches:
