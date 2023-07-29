@@ -73,6 +73,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |  [Chainlayer](https://chainlayer.io)   |     <https://okptest-rpc.quickapi.com:443>     |   ✅    |
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network:26657> |   ✅    |
 |     [Nodeist](https://nodeist.net)     |         <https://rpc-okp4.nodeist.net>         |   ✅    |
+|     [Lavender.Five Nodes](https://lavenderfive.com)     |         <https://testnet-okp4-rpc.lavenderfive.com:443>         |   ✅    |
   
 </details>
 
@@ -84,6 +85,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |  [Chainlayer](https://chainlayer.io)   |    <https://okptest-lcd.quickapi.com:443>     |   ✅    |
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network:1317> |   ✅    |
 |     [Nodeist](https://nodeist.net)     |        <https://api-okp4.nodeist.net>         |   ✅    |
+|     [Lavender.Five Nodes](https://lavenderfive.com)    |        <https://testnet-okp4-api.lavenderfive.com:443>         |   ✅    |
   
 </details>
 
@@ -94,6 +96,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |----------------------------------------|-----------------------------------------------|
 | [Nodeist](https://nodeist.net)         | <https://grpc-okp4.nodeist.net>               |
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network:9090> |
+| [Lavender.Five Nodes](https://lavenderfive.com) | <https://testnet-okp4-grpc.lavenderfive.com:443> |
   
 </details>
 
@@ -105,6 +108,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Nodeist](https://nodeist.net)         | <https://ss.nodeist.net/t/okp4/addrbook.json>                   | ✅      |
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network/snapshot/addrbook.json> | ✅      |
 | [Chainlayer](https://chainlayer.io)    | <https://dl2.quicksync.io/json/addrbook.okp4testnet.json>       | ✅      |
+| [Lavender.Five Nodes](https://lavenderfive.com)    | <https://snapshots.lavenderfive.com/testnet-addrbooks/okp4/addrbook.json>       | ✅      |
 
 </details>
 
@@ -116,6 +120,8 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network/snapshot/> | ✅      |
 | [Nodeist](https://nodeist.net)         | <https://nodeist.net/Okp4/>                        | ✅      |
 | [Chainlayer](https://quickapi.com)     | <https://quicksync.io/networks/okp4.html>          | ✅      |
+| [Lavender.Five Nodes](https://lavenderfive.com)     | <https://snapshots.lavenderfive.com/testnet-snapshots/okp4/latest.tar.lz4>          | ✅      |
+
 
 </details>
 
