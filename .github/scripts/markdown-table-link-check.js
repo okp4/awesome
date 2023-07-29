@@ -6,8 +6,14 @@ const { parseMarkdownTables } = require("./helper/index.js");
 const opt = require("./.link-check.json");
 const { resolve } = require("dns");
 
-const replacementSymbolDead = "❌";
-const replacementSymbolAlive = "✅";
+const Status = {
+    DEAD: "dead",
+    ALIVE: "alive",
+};
+
+const symbolDead = "❌";
+const symbolAlive = "✅";
+
 const parsedTable = parseMarkdownTables(readmeContent);
 const allLinksFromUrlsClm = parsedTable
     .map((table) => table.url)
@@ -16,16 +22,18 @@ const allLinksFromUrlsClm = parsedTable
 
 async function linksCheck(links) {
     const linkCheckResults = [];
+
+    console.log(`Checking ${links.length} links...`);
     for (const link of links) {
         const res = await new Promise((resolve) =>
-            linkCheck(link, opt, (err, result) => {
-                if (err) {
-                    console.warn(err);
-                    return resolve({
-                        link,
-                        status: "dead",
-                    });
-                }
+            linkCheck(link, opt, (_, result) => {
+                console.log(
+                    `${
+                        result.status === Status.DEAD ? symbolDead : symbolAlive
+                    } ${result.statusCode} <${result.link}>${
+                        result.err !== null ? " ➨ " + result.err : ""
+                    }`
+                );
                 return resolve(result);
             })
         );
@@ -38,11 +46,13 @@ async function checkLinksInTables() {
     const results = await linksCheck(allLinksFromUrlsClm);
     return results.reduce(
         (acc, cur) => {
-            if (cur.status === "dead") {
-                acc.arrDead.push(cur.link);
-            }
-            if (cur.status === "alive") {
-                acc.arrAlive.push(cur.link);
+            switch (cur.status) {
+                case Status.DEAD:
+                    acc.arrDead.push(cur.link);
+                    break;
+                case Status.ALIVE:
+                    acc.arrAlive.push(cur.link);
+                    break;
             }
             return acc;
         },
@@ -54,18 +64,12 @@ async function updateLinks(arrDead, arrAlive, lines) {
     const updatedLines = lines.map((line) => {
         arrDead.forEach((link) => {
             if (line.includes(link)) {
-                line = line.replace(
-                    replacementSymbolAlive,
-                    replacementSymbolDead
-                );
+                line = line.replace(symbolAlive, symbolDead);
             }
         });
         arrAlive.forEach((link) => {
             if (line.includes(link)) {
-                line = line.replace(
-                    replacementSymbolDead,
-                    replacementSymbolAlive
-                );
+                line = line.replace(symbolDead, symbolAlive);
             }
         });
         return line;
@@ -75,9 +79,16 @@ async function updateLinks(arrDead, arrAlive, lines) {
 
 (async function () {
     const { arrAlive, arrDead } = await checkLinksInTables();
-    const lines = readmeContent.split("\n");
 
+    if (arrDead.length > 0) {
+        console.log(`${symbolDead} ${arrDead.length} link(s) are dead!`);
+    }
+
+    const lines = readmeContent.split("\n");
     const updatedLines = await updateLinks(arrDead, arrAlive, lines);
+    console.log("Updating README.md...");
     const updatedTable = updatedLines.join("\n");
     fs.writeFileSync("./README.md", updatedTable, "utf8");
+
+    console.log("Done!");
 })();
