@@ -122,7 +122,6 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Chainlayer](https://quickapi.com)     | <https://quicksync.io/networks/okp4.html>          | ✅      |
 | [Lavender.Five Nodes](https://lavenderfive.com)     | <https://snapshots.lavenderfive.com/testnet-snapshots/okp4/latest.tar.lz4>          | ✅      |
 
-
 </details>
 
 <details>
