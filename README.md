@@ -176,6 +176,12 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |:-----------------------------------------------:|:-----------------------------------------------------:|:------------------------------------------------------:|:------:|
 | [MadeInTracker](https://www.madeintracker.com/) | <https://madeintracker.github.io/okp4_web_interface/> | <https://github.com/madeintracker/okp4_web_interface/> |   ✅   |
 
+## 🤖 BOTs
+
+| Thanks To                                    | Type           | URL                                          | Description                    |
+|----------------------------------------------|----------------|----------------------------------------------|--------------------------------|
+| [Stake Village](https://stakevillage.net/)   | Telegram Bot   | <https://t.me/stakeVillage_check_nodes_bot>    |  Monitoring Missed Blocks and sending notifications    |
+
 ## You want to get involved? 😍
 
 Please submit a pull request if you know any resources that might be helpful to the community. ❤️
