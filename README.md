@@ -156,6 +156,12 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [MELLIFERA](https://mellifera.network)                    | `Nemeton-1` chain | <https://okp4-testnet.mellifera.network/monitor>                                             | ✅      |
 | [Nodeist](https://github.com/Nodeist)                     | Nodeist Dashboard | <https://okp4-monitor.nodeist.net/d/cosmos_validator/okp4?orgId=1&refresh=1m>                | ❌      |
 
+## 🖥️ Applications
+
+|               Thanks To                         |                              URL                      |                    Repository                          | Status |
+|:-----------------------------------------------:|:-----------------------------------------------------:|:------------------------------------------------------:|:------:|
+| [MadeInTracker](https://www.madeintracker.com/) | <https://madeintracker.github.io/okp4_web_interface/> | <https://github.com/madeintracker/okp4_web_interface/> |   ✅   |
+
 ## You want to get involved? 😍
 
 Please submit a pull request if you know any resources that might be helpful to the community. ❤️
