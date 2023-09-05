@@ -55,6 +55,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Nodes & Validator Guide                | <https://nodes.guru/okp4/setup-guide/en>                                             | ✅      | [Nodes Guru](https://nodes.guru/)                                                        |
 | Nodes & Validator Guide                | <https://nodeist.net/t/Okp4/Setup/>                                                  | ❌      | [Nodeist](https://nodeist.net/)                                                          |
 | Nodes & Validator Guide                | <https://nodeservice.nodersteam.com/title/testnets/okp4>                             | ✅      | [[NODERS]TEAM](https://noders-stake.com/)                                                |
+| Nodes & Validator Guide                | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>           | ✅      | [AVIAONE](https://aviaone.com)                                                           |
 | Dev guidelines 👩‍💻                     | <https://work.okp4.com/dev/dev-home>                                                  | ✅      | [OKP4](https://github.com/okp4)                                                          |
 | OKP4 Snapshot guide                    | <https://github.com/Kolot86/My-guides/blob/main/OKP4_Sanpshot_Guide/OKP4.md>         | ✅      | [Kolot](https://github.com/Kolot86)                                                      |
 | Basic tools & Validator Guide          | <https://github.com/Cumulo-pro/OKP4#readme>                                          | ✅      | [Cumulo](https://github.com/Cumulo-pro)                                                  |
@@ -69,7 +70,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 <details>
   <summary>RPC</summary>
-  
+
 |               Thanks To                |                      URL                       | Status |
 |:--------------------------------------:|:----------------------------------------------:|:------:|
 |  [Chainlayer](https://chainlayer.io)   |     <https://okptest-rpc.quickapi.com:443>     |   ✅    |
@@ -77,12 +78,12 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |     [Nodeist](https://nodeist.net)     |         <https://rpc-okp4.nodeist.net>         |   ✅    |
 |     [Lavender.Five Nodes](https://lavenderfive.com)     |         <https://testnet-okp4-rpc.lavenderfive.com:443>         |   ✅    |
 | [NodeStake](https://nodestake.top/)    | <https://rpc-t.okp4.nodestake.top>             |   ✅    |
-  
+
 </details>
 
 <details>
   <summary>API</summary>
-  
+
 |               Thanks To                |                      URL                      | Status |
 |:--------------------------------------:|:---------------------------------------------:|:------:|
 |  [Chainlayer](https://chainlayer.io)   |    <https://okptest-lcd.quickapi.com:443>     |   ✅    |
@@ -90,24 +91,26 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |     [Nodeist](https://nodeist.net)     |        <https://api-okp4.nodeist.net>         |   ✅    |
 |     [Lavender.Five Nodes](https://lavenderfive.com)    |        <https://testnet-okp4-api.lavenderfive.com:443>         |   ✅    |
 | [NodeStake](https://nodestake.top/)    | <https://api-t.okp4.nodestake.top>            |   ✅    |
-  
+|     [AVIAONE](https://aviaone.com)     | <https://rpc.okp4-nemeton-1.okp4.aviaone.com>|   ✅    |
+
 </details>
 
 <details>
   <summary>gRPC</summary>
-  
+
 | Thanks To                              | URL                                           |
 |----------------------------------------|-----------------------------------------------|
 | [Nodeist](https://nodeist.net)         | <https://grpc-okp4.nodeist.net>               |
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network:9090> |
 | [Lavender.Five Nodes](https://lavenderfive.com) | <https://testnet-okp4-grpc.lavenderfive.com:443> |
 | [NodeStake](https://nodestake.top/)    | <https://grpc-t.okp4.nodestake.top:443>       |
-  
+| [AVIAONE](https://aviaone.com)         | <https://grpc.okp4-nemeton-1.okp4.aviaone.com:9092> |
+
 </details>
 
 <details>
   <summary>Addrbook</summary>
-  
+
 | Thanks To                              | URL                                                             | Status |
 |----------------------------------------|-----------------------------------------------------------------|--------|
 | [Nodeist](https://nodeist.net)         | <https://ss.nodeist.net/t/okp4/addrbook.json>                   | ✅      |
@@ -115,12 +118,13 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Chainlayer](https://chainlayer.io)    | <https://dl2.quicksync.io/json/addrbook.okp4testnet.json>       | ✅      |
 | [Lavender.Five Nodes](https://lavenderfive.com)    | <https://snapshots.lavenderfive.com/testnet-addrbooks/okp4/addrbook.json>       | ✅      |
 | [NodeStake](https://nodestake.top/)    | <https://ss-t.okp4.nodestake.top/addrbook.json>                 | ✅    |
+| [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 
 </details>
 
 <details>
   <summary>Snapshot</summary>
-  
+
 | Thanks To                              | URL                                                | Status |
 |----------------------------------------|----------------------------------------------------|--------|
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network/snapshot/> | ✅      |
@@ -128,29 +132,31 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Chainlayer](https://quickapi.com)     | <https://quicksync.io/networks/okp4.html>          | ✅      |
 | [Lavender.Five Nodes](https://lavenderfive.com)     | <https://snapshots.lavenderfive.com/testnet-snapshots/okp4/latest.tar.lz4>          | ✅      |
 | [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                       | ✅    |
+| [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 
 </details>
 
 <details>
   <summary>State / Quick Sync</summary>
-  
+
 | Thanks To                              | URL                                           | Status |
 |----------------------------------------|-----------------------------------------------|--------|
 | [Chainlayer](https://quicksync.io)     | <https://quicksync.io/networks/okp4.html>     | ✅     |
 | [MELLIFERA](https://mellifera.network) | <https://mellifera.network/manuals/okp4.html> | ✅     |
 | [Nodeist](https://nodeist.net)         | <https://nodeist.net/Okp4/>                   | ✅     |
 | [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                  | ✅     |
+| [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 
 </details>
 
 <details>
   <summary>Live Peer</summary>
-  
+
 | Thanks To                              | Live Peer                                                                                                                  |
 |----------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| [MELLIFERA](https://mellifera.network) | 866b505e44a2077def00ede26999551bedb5bddd@okp4-testnet.mellifera.network:29959                                              |
+| [MELLIFERA](https://mellifera.network) | <866b505e44a2077def00ede26999551bedb5bddd@okp4-testnet.mellifera.network>:29959                                              |
 | [Nodeist](https://nodeist.net)         | d5519e378247dfb61dfe90652d1fe3e2b3005a5b@65.109.68.190:13656,8028015d1c6828a0b734f3b108f0853b0e19305e@157.90.176.184:26656 |
-| [NodeStake](https://nodestake.top/)    | ef61a2f2693b089b98a8894fbbd2c0e6797ea201@rpc-t.okp4.nodestake.top:666                                                      |
+| [NodeStake](https://nodestake.top/)    | <ef61a2f2693b089b98a8894fbbd2c0e6797ea201@rpc-t.okp4.nodestake.top>:666                                                      |
 
 </details>
 
