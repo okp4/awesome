@@ -41,6 +41,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [PPNV Service](https://ppnv.space)       | Ping Pub | <https://explorer.ppnv.space/okp4>            | ❌     |
 | [ATOMScan](https://atomscan.com/)        | ATOMScan | <https://atomscan.com/testnet/okp4testnet>    | ✅     |
 | [NodeStake](https://nodestake.top/)      | Ping Pub | <https://explorer.nodestake.top/okp4-testnet> | ✅     |
+| [🔥STAVR🔥](https://github.com/obajay/)  | Ping Pub | <https://explorer.stavr.tech/okp4-testnet>    | ✅     |
 
 ## 🚰 Faucets
 
@@ -65,6 +66,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Nodes & Validator Guide                | <https://github.com/cryptobtcbuyer/Testnet_guides/blob/main/OKP4/installation.md>    | ✅      | [cryptobtcbuyer](https://github.com/cryptobtcbuyer)                                      |
 | Monitoring and Alerting for Validators | <https://github.com/cryptobtcbuyer/Testnet_guides/blob/main/OKP4/monitoring.md>      | ✅      | [cryptobtcbuyer](https://github.com/cryptobtcbuyer)                                      |
 | Nodes & Validator Guide                | <https://nodestake.top/okp4>                                                         | ✅      | [NodeStake](https://nodestake.top/okp4)                                                |
+| OKP4 Guide                             | <https://github.com/obajay/nodes-Guides/tree/main/Projects/OKP4>                     | ✅      | [🔥STAVR🔥](https://github.com/obajay)                                                |
 
 ## ⚙️ Services
 
@@ -78,6 +80,8 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |     [Nodeist](https://nodeist.net)     |         <https://rpc-okp4.nodeist.net>         |   ✅    |
 |     [Lavender.Five Nodes](https://lavenderfive.com)     |         <https://testnet-okp4-rpc.lavenderfive.com:443>         |   ✅    |
 | [NodeStake](https://nodestake.top/)    | <https://rpc-t.okp4.nodestake.top>             |   ✅    |
+|     [AVIAONE](https://aviaone.com)     | <https://rpc.okp4-nemeton-1.okp4.aviaone.com>  |   ✅    |
+|     [🔥STAVR🔥](https://github.com/obajay)     | <http://okp.rpc.t.stavr.tech:10097>  |   ✅    |
 
 </details>
 
@@ -91,7 +95,8 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |     [Nodeist](https://nodeist.net)     |        <https://api-okp4.nodeist.net>         |   ✅    |
 |     [Lavender.Five Nodes](https://lavenderfive.com)    |        <https://testnet-okp4-api.lavenderfive.com:443>         |   ✅    |
 | [NodeStake](https://nodestake.top/)    | <https://api-t.okp4.nodestake.top>            |   ✅    |
-|     [AVIAONE](https://aviaone.com)     | <https://rpc.okp4-nemeton-1.okp4.aviaone.com>|   ✅    |
+|     [AVIAONE](https://aviaone.com)     | <https://api.okp4-nemeton-1.okp4.aviaone.com>|   ✅    |
+|     [🔥STAVR🔥](https://github.com/obajay)     | <https://okp4.api.t.stavr.tech>  |   ✅    |
 
 </details>
 
@@ -105,6 +110,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Lavender.Five Nodes](https://lavenderfive.com) | <https://testnet-okp4-grpc.lavenderfive.com:443> |
 | [NodeStake](https://nodestake.top/)    | <https://grpc-t.okp4.nodestake.top:443>       |
 | [AVIAONE](https://aviaone.com)         | <https://grpc.okp4-nemeton-1.okp4.aviaone.com:9092> |
+| [🔥STAVR🔥](https://github.com/obajay)     | <http://okp.grpc.t.stavr.tech:8029>  |
 
 </details>
 
@@ -119,6 +125,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Lavender.Five Nodes](https://lavenderfive.com)    | <https://snapshots.lavenderfive.com/testnet-addrbooks/okp4/addrbook.json>       | ✅      |
 | [NodeStake](https://nodestake.top/)    | <https://ss-t.okp4.nodestake.top/addrbook.json>                 | ✅    |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
+| [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#-useful-tools>  |   ✅    |
 
 </details>
 
@@ -133,6 +140,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Lavender.Five Nodes](https://lavenderfive.com)     | <https://snapshots.lavenderfive.com/testnet-snapshots/okp4/latest.tar.lz4>          | ✅      |
 | [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                       | ✅    |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
+| [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#snapshot-04-gb-updated-every-5-hours>  |   ✅    |
 
 </details>
 
@@ -146,17 +154,19 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Nodeist](https://nodeist.net)         | <https://nodeist.net/Okp4/>                   | ✅     |
 | [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                  | ✅     |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
+| [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#statesync>  |   ✅    |
 
 </details>
 
 <details>
   <summary>Live Peer</summary>
 
-| Thanks To                              | Live Peer                                                                                                                  |
-|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| [MELLIFERA](https://mellifera.network) | <866b505e44a2077def00ede26999551bedb5bddd@okp4-testnet.mellifera.network>:29959                                              |
-| [Nodeist](https://nodeist.net)         | d5519e378247dfb61dfe90652d1fe3e2b3005a5b@65.109.68.190:13656,8028015d1c6828a0b734f3b108f0853b0e19305e@157.90.176.184:26656 |
-| [NodeStake](https://nodestake.top/)    | <ef61a2f2693b089b98a8894fbbd2c0e6797ea201@rpc-t.okp4.nodestake.top>:666                                                      |
+| Thanks To                               | Live Peer                                                                                                                  |
+|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| [MELLIFERA](https://mellifera.network)  | <866b505e44a2077def00ede26999551bedb5bddd@okp4-testnet.mellifera.network>:29959                                              |
+| [Nodeist](https://nodeist.net)          | d5519e378247dfb61dfe90652d1fe3e2b3005a5b@65.109.68.190:13656,8028015d1c6828a0b734f3b108f0853b0e19305e@157.90.176.184:26656 |
+| [NodeStake](https://nodestake.top/)     | <ef61a2f2693b089b98a8894fbbd2c0e6797ea201@rpc-t.okp4.nodestake.top>:666                                                      |
+| [🔥STAVR🔥](https://github.com/obajay)   | <42eb68bfa046b6cafa53de67d9286651aeffff7c@okp.peer.stavr.tech>:10096                                                       |
 
 </details>
 
