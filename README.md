@@ -43,8 +43,6 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [NodeStake](https://nodestake.top/)      | Ping Pub | <https://explorer.nodestake.top/okp4-testnet> | ✅     |
 | [🔥STAVR🔥](https://github.com/obajay/)  | Ping Pub | <https://explorer.stavr.tech/okp4-testnet>    | ✅     |
 
-
-
 ## 🚰 Faucets
 
 - [OKP4 Nemeton](https://faucet.okp4.network)
@@ -69,7 +67,6 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Monitoring and Alerting for Validators | <https://github.com/cryptobtcbuyer/Testnet_guides/blob/main/OKP4/monitoring.md>      | ✅      | [cryptobtcbuyer](https://github.com/cryptobtcbuyer)                                      |
 | Nodes & Validator Guide                | <https://nodestake.top/okp4>                                                         | ✅      | [NodeStake](https://nodestake.top/okp4)                                                |
 | OKP4 Guide                             | <https://github.com/obajay/nodes-Guides/tree/main/Projects/OKP4>                     | ✅      | [🔥STAVR🔥](https://github.com/obajay)                                                |
-
 
 ## ⚙️ Services
 
@@ -171,7 +168,6 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [NodeStake](https://nodestake.top/)     | <ef61a2f2693b089b98a8894fbbd2c0e6797ea201@rpc-t.okp4.nodestake.top>:666                                                      |
 | [🔥STAVR🔥](https://github.com/obajay)   | <42eb68bfa046b6cafa53de67d9286651aeffff7c@okp.peer.stavr.tech>:10096                                                       |
 
- 
 </details>
 
 ## 📊 Dashboards
