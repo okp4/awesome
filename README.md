@@ -126,6 +126,8 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [NodeStake](https://nodestake.top/)    | <https://ss-t.okp4.nodestake.top/addrbook.json>                 | ✅    |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#-useful-tools>  |   ✅    |
+| [AutoStake](https://autoistake.com)    | <https://snapshots.autostake.com/okp4-nemeton-1/addrbook.json>  | ✅      |
+
 
 </details>
 
@@ -141,11 +143,12 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                       | ✅    |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#snapshot-04-gb-updated-every-5-hours>  |   ✅    |
+| [AutoStake](https://autoistake.com)    | <https://snapshots.autostake.com/okp4-nemeton-1>   | ✅      |
 
 </details>
 
 <details>
-  <summary>State / Quick Sync</summary>
+  <summ>ary>State / Quick Sync</summary>
 
 | Thanks To                              | URL                                           | Status |
 |----------------------------------------|-----------------------------------------------|--------|
@@ -167,6 +170,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Nodeist](https://nodeist.net)          | d5519e378247dfb61dfe90652d1fe3e2b3005a5b@65.109.68.190:13656,8028015d1c6828a0b734f3b108f0853b0e19305e@157.90.176.184:26656 |
 | [NodeStake](https://nodestake.top/)     | <ef61a2f2693b089b98a8894fbbd2c0e6797ea201@rpc-t.okp4.nodestake.top>:666                                                      |
 | [🔥STAVR🔥](https://github.com/obajay)   | <42eb68bfa046b6cafa53de67d9286651aeffff7c@okp.peer.stavr.tech>:10096                                                       |
+| [AutoStake](https://autoistake.com)     | <5c2a752c9b1952dbed075c56c600c3a79b58c395@okp4-testnet-peer.autostake.com>:443                                             |
 
 </details>
 
