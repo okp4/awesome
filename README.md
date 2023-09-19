@@ -148,7 +148,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 </details>
 
 <details>
-  <summ>ary>State / Quick Sync</summary>
+  <summary>State / Quick Sync</summary>
 
 | Thanks To                              | URL                                           | Status |
 |----------------------------------------|-----------------------------------------------|--------|
