@@ -1,10 +1,14 @@
+[![okp4 github banner](./assets/okp4-banner-v2.webp)](https://okp4.network)
+
 # Awesome OKP4
 
 > Awesome OKP4 is a curated list of awesome resources, documents, and tools for [OKP4](https://okp4.network).
 
 [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/okp4/awesome)
+ [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![lint](https://img.shields.io/github/actions/workflow/status/okp4/awesome/lint.yml?label=Lint&style=for-the-badge&logo=github)](https://github.com/okp4/awesome/actions/workflows/lint.yml)
 [![conventional commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg?style=for-the-badge&logo=conventionalcommits)](https://conventionalcommits.org)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=for-the-badge)](https://github.com/semantic-release/semantic-release)
 [![contributor covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](https://github.com/okp4/.github/blob/main/CODE_OF_CONDUCT.md)
 [![license](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg?style=for-the-badge)](https://opensource.org/licenses/BSD-3-Clause)
 
@@ -127,7 +131,6 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#-useful-tools>  |   ✅    |
 | [AutoStake](https://autostake.com)     | <https://snapshots.autostake.com/okp4-nemeton-1/addrbook.json>  | ✅      |
-
 
 </details>
 
