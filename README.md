@@ -75,8 +75,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 ## ⚙️ Services
 
-<details>
-  <summary>RPC</summary>
+> RPC
 
 |               Thanks To                |                      URL                       | Status |
 |:--------------------------------------:|:----------------------------------------------:|:------:|
@@ -88,10 +87,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |     [AVIAONE](https://aviaone.com)     | <https://rpc.okp4-nemeton-1.okp4.aviaone.com>  |   ✅    |
 |     [🔥STAVR🔥](https://github.com/obajay)     | <http://okp.rpc.t.stavr.tech:10097>  |   ✅    |
 
-</details>
-
-<details>
-  <summary>API</summary>
+> API
 
 |               Thanks To                |                      URL                      | Status |
 |:--------------------------------------:|:---------------------------------------------:|:------:|
@@ -103,10 +99,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |     [AVIAONE](https://aviaone.com)     | <https://api.okp4-nemeton-1.okp4.aviaone.com>|   ✅    |
 |     [🔥STAVR🔥](https://github.com/obajay)     | <https://okp4.api.t.stavr.tech>  |   ✅    |
 
-</details>
-
-<details>
-  <summary>gRPC</summary>
+> gRPC
 
 | Thanks To                              | URL                                           |
 |----------------------------------------|-----------------------------------------------|
@@ -117,10 +110,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [AVIAONE](https://aviaone.com)         | <https://grpc.okp4-nemeton-1.okp4.aviaone.com:9092> |
 | [🔥STAVR🔥](https://github.com/obajay)     | <http://okp.grpc.t.stavr.tech:8029>  |
 
-</details>
-
-<details>
-  <summary>Addrbook</summary>
+> Addrbook
 
 | Thanks To                              | URL                                                             | Status |
 |----------------------------------------|-----------------------------------------------------------------|--------|
@@ -133,10 +123,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#-useful-tools>  |   ✅    |
 | [AutoStake](https://autostake.com)     | <https://snapshots.autostake.com/okp4-nemeton-1/addrbook.json>  | ✅      |
 
-</details>
-
-<details>
-  <summary>Snapshot</summary>
+> Snapshot
 
 | Thanks To                              | URL                                                | Status |
 |----------------------------------------|----------------------------------------------------|--------|
@@ -149,10 +136,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#snapshot-04-gb-updated-every-5-hours>  |   ✅    |
 | [AutoStake](https://autostake.com)    | <https://snapshots.autostake.com/okp4-nemeton-1>   | ✅      |
 
-</details>
-
-<details>
-  <summary>State / Quick Sync</summary>
+> State / Quick Sync
 
 | Thanks To                              | URL                                           | Status |
 |----------------------------------------|-----------------------------------------------|--------|
@@ -163,10 +147,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#statesync>  |   ✅    |
 
-</details>
-
-<details>
-  <summary>Live Peer</summary>
+> Live Peer
 
 | Thanks To                               | Live Peer                                                                                                                  |
 |-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
@@ -175,8 +156,6 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [NodeStake](https://nodestake.top/)     | <ef61a2f2693b089b98a8894fbbd2c0e6797ea201@rpc-t.okp4.nodestake.top>:666                                                      |
 | [🔥STAVR🔥](https://github.com/obajay)   | <42eb68bfa046b6cafa53de67d9286651aeffff7c@okp.peer.stavr.tech>:10096                                                       |
 | [AutoStake](https://autostake.com)     | <5c2a752c9b1952dbed075c56c600c3a79b58c395@okp4-testnet-peer.autostake.com>:443                                             |
-
-</details>
 
 ## 📊 Dashboards
 
