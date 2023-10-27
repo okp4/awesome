@@ -50,7 +50,9 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 ## 🚰 Faucets
 
-- [OKP4 Nemeton](https://faucet.okp4.network)
+| Thanks To                             | URL                              | Status |
+|---------------------------------------|----------------------------------|--------|
+| [OKP4](https://okp4.network)          | <https://faucet.okp4.network>    | ✅     |
 
 ## 📚 Documentation / Guides
 
