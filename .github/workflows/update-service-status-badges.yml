@@ -32,7 +32,7 @@ jobs:
         run: node .github/scripts/markdown-table-link-check.js
 
       - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_user_name: ${{ secrets.OKP4_BOT_GIT_COMMITTER_NAME }}
           commit_user_email: ${{ secrets.OKP4_BOT_GIT_COMMITTER_EMAIL }}
