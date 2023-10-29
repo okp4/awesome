@@ -123,7 +123,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [NodeStake](https://nodestake.top/)    | <https://ss-t.okp4.nodestake.top/addrbook.json>                 | ✅    |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#-useful-tools>  |   ✅    |
-| [AutoStake](https://autostake.com)     | <https://snapshots.autostake.com/okp4-nemeton-1/addrbook.json>  | ✅      |
+| [AutoStake](https://autostake.com)     | <https://snapshots.autostake.com/okp4-nemeton-1/addrbook.json>  | ❌      |
 
 > Snapshot
 
@@ -136,7 +136,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                       | ✅    |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#snapshot-04-gb-updated-every-5-hours>  |   ✅    |
-| [AutoStake](https://autostake.com)    | <https://snapshots.autostake.com/okp4-nemeton-1>   | ✅      |
+| [AutoStake](https://autostake.com)    | <https://snapshots.autostake.com/okp4-nemeton-1>   | ❌      |
 
 > State / Quick Sync
 
