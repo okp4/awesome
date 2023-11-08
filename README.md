@@ -86,7 +86,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |     [Nodeist](https://nodeist.net)     |         <https://rpc-okp4.nodeist.net>         |   ❌    |
 |     [Lavender.Five Nodes](https://lavenderfive.com)     |         <https://testnet-okp4-rpc.lavenderfive.com:443>         |   ✅    |
 | [NodeStake](https://nodestake.top/)    | <https://rpc-t.okp4.nodestake.top>             |   ✅    |
-|     [AVIAONE](https://aviaone.com)     | <https://rpc.okp4-nemeton-1.okp4.aviaone.com>  |   ✅    |
+|     [AVIAONE](https://aviaone.com)     | <https://rpc.okp4-nemeton-1.okp4.aviaone.com>  |   ❌    |
 |     [🔥STAVR🔥](https://github.com/obajay)     | <http://okp.rpc.t.stavr.tech:10097>  |   ✅    |
 
 > API
@@ -98,7 +98,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |     [Nodeist](https://nodeist.net)     |        <https://api-okp4.nodeist.net>         |   ❌    |
 |     [Lavender.Five Nodes](https://lavenderfive.com)    |        <https://testnet-okp4-api.lavenderfive.com:443>         |   ✅    |
 | [NodeStake](https://nodestake.top/)    | <https://api-t.okp4.nodestake.top>            |   ✅    |
-|     [AVIAONE](https://aviaone.com)     | <https://api.okp4-nemeton-1.okp4.aviaone.com>|   ✅    |
+|     [AVIAONE](https://aviaone.com)     | <https://api.okp4-nemeton-1.okp4.aviaone.com>|   ❌    |
 |     [🔥STAVR🔥](https://github.com/obajay)     | <https://okp4.api.t.stavr.tech>  |   ✅    |
 
 > gRPC
