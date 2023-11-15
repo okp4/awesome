@@ -41,7 +41,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [OKP4](https://github.com/okp4)          | Ping Pub | <https://explore.okp4.network>                | ✅     |
 | [BccNodes](https://github.com/BccNodes/) | Ping Pub | <https://explorer.bccnodes.com/okp4>          | ✅     |
 | [Ping Pub](https://github.com/ping-pub/) | Ping Pub | <https://ping.pub/okp4%20testnet?testnet>     | ✅     |
-| [L0vd](https://github.com/L0vd)          | Ping Pub | <https://explorers.l0vd.com/okp4-testnet>     | ✅     |
+| [L0vd](https://github.com/L0vd)          | Ping Pub | <https://explorers.l0vd.com/okp4-testnet>     | ❌     |
 | [Nodeist](https://github.com/Nodeist)    | Ping Pub | <https://exp.nodeist.net/t-okp4/staking>      | ✅     |
 | [PPNV Service](https://ppnv.space)       | Ping Pub | <https://explorer.ppnv.space/okp4>            | ❌     |
 | [ATOMScan](https://atomscan.com/)        | ATOMScan | <https://atomscan.com/testnet/okp4testnet>    | ✅     |
