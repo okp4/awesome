@@ -116,7 +116,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 | Thanks To                              | URL                                                             | Status |
 |----------------------------------------|-----------------------------------------------------------------|--------|
-| [Nodeist](https://nodeist.net)         | <https://ss.nodeist.net/t/okp4/addrbook.json>                   | ✅      |
+| [Nodeist](https://nodeist.net)         | <https://ss.nodeist.net/t/okp4/addrbook.json>                   | ❌      |
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network/snapshot/addrbook.json> | ✅      |
 | [Chainlayer](https://chainlayer.io)    | <https://dl2.quicksync.io/json/addrbook.okp4testnet.json>       | ✅      |
 | [Lavender.Five Nodes](https://lavenderfive.com)    | <https://snapshots.lavenderfive.com/testnet-addrbooks/okp4/addrbook.json>       | ✅      |
