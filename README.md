@@ -161,14 +161,15 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 ## 📊 Dashboards
 
-| Thanks To                                                 | Type              | URL                                                                                          | Status |
-|-----------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------|--------|
-| [OKP4](https://github.com/okp4)                           | `Nemeton` chain   | <https://dashboard.monitoring.okp4.space/public-dashboards/544a782e7fd9488c9ccfe68046c02cf8> | ✅      |
-| [L0vd](https://github.com/L0vd/OKP4/tree/main/Monitoring) | `Nemeton` chain   | <http://95.216.2.219:3000/d/okp4/okp4-monitoring-by-l0vd?orgId=1&refresh=30s>                | ✅      |
-| [Cros Nest](https://cros-nest.com)                        | `Nemeton-1` chain | <https://chain-monitor.cros-nest.com/d/Testnet/testnets?orgId=1&var-chain_id=okp4-nemeton-1> | ✅      |
-| [OKP4](https://github.com/okp4)                           | OKP4 github       | <https://dashboard.monitoring.okp4.space/public-dashboards/6e71b5e261c042209ef0793db964b9bb> | ✅      |
-| [MELLIFERA](https://mellifera.network)                    | `Nemeton-1` chain | <https://okp4-testnet.mellifera.network/monitor>                                             | ✅      |
-| [Nodeist](https://github.com/Nodeist)                     | Nodeist Dashboard | <https://okp4-monitor.nodeist.net/d/cosmos_validator/okp4?orgId=1&refresh=1m>                | ❌      |
+| Thanks To                                                 | Type                               | URL                                                                                          | Status |
+|-----------------------------------------------------------|------------------------------------|----------------------------------------------------------------------------------------------|--------|
+| [OKP4](https://github.com/okp4)                           | OKP4 Services Status & Update Time | <https://status.okp4.network/>                                                               | ✅      |
+| [OKP4](https://github.com/okp4)                           | `nemeton-1` chain                  | <https://dashboard.monitoring.okp4.space/public-dashboards/544a782e7fd9488c9ccfe68046c02cf8> | ✅      |
+| [L0vd](https://github.com/L0vd/OKP4/tree/main/Monitoring) | `nemeton-1` chain                  | <http://95.216.2.219:3000/d/okp4/okp4-monitoring-by-l0vd?orgId=1&refresh=30s>                | ✅      |
+| [Cros Nest](https://cros-nest.com)                        | `nemeton-1` chain                  | <https://chain-monitor.cros-nest.com/d/Testnet/testnets?orgId=1&var-chain_id=okp4-nemeton-1> | ✅      |
+| [OKP4](https://github.com/okp4)                           | OKP4 github                        | <https://dashboard.monitoring.okp4.space/public-dashboards/6e71b5e261c042209ef0793db964b9bb> | ✅      |
+| [MELLIFERA](https://mellifera.network)                    | `nemeton-1` chain                  | <https://okp4-testnet.mellifera.network/monitor>                                             | ✅      |
+| [Nodeist](https://github.com/Nodeist)                     | Nodeist Dashboard                  | <https://okp4-monitor.nodeist.net/d/cosmos_validator/okp4?orgId=1&refresh=1m>                | ❌      |
 
 ## 🖥️ Applications
 
