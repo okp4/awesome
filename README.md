@@ -38,7 +38,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 | Thanks To                                | Explorer | URL                                           | Status |
 |------------------------------------------|----------|-----------------------------------------------|--------|
-| [OKP4](https://github.com/okp4)          | Ping Pub | <https://explore.okp4.network>                | ❌     |
+| [OKP4](https://github.com/okp4)          | Ping Pub | <https://explore.okp4.network>                | ✅     |
 | [BccNodes](https://github.com/BccNodes/) | Ping Pub | <https://explorer.bccnodes.com/okp4>          | ✅     |
 | [Ping Pub](https://github.com/ping-pub/) | Ping Pub | <https://ping.pub/okp4%20testnet?testnet>     | ✅     |
 | [L0vd](https://github.com/L0vd)          | Ping Pub | <https://explorers.l0vd.com/okp4-testnet>     | ✅     |
@@ -87,7 +87,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |     [Lavender.Five Nodes](https://lavenderfive.com)     |         <https://testnet-okp4-rpc.lavenderfive.com:443>         |   ✅    |
 | [NodeStake](https://nodestake.top/)    | <https://rpc-t.okp4.nodestake.top>             |   ✅    |
 |     [AVIAONE](https://aviaone.com)     | <https://rpc.okp4-nemeton-1.okp4.aviaone.com>  |   ❌    |
-|     [🔥STAVR🔥](https://github.com/obajay)     | <http://okp.rpc.t.stavr.tech:10097>  |   ✅    |
+|     [🔥STAVR🔥](https://github.com/obajay)     | <http://okp.rpc.t.stavr.tech:10097>  |   ❌    |
 
 > API
 
@@ -99,7 +99,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |     [Lavender.Five Nodes](https://lavenderfive.com)    |        <https://testnet-okp4-api.lavenderfive.com:443>         |   ✅    |
 | [NodeStake](https://nodestake.top/)    | <https://api-t.okp4.nodestake.top>            |   ✅    |
 |     [AVIAONE](https://aviaone.com)     | <https://api.okp4-nemeton-1.okp4.aviaone.com>|   ❌    |
-|     [🔥STAVR🔥](https://github.com/obajay)     | <https://okp4.api.t.stavr.tech>  |   ✅    |
+|     [🔥STAVR🔥](https://github.com/obajay)     | <https://okp4.api.t.stavr.tech>  |   ❌    |
 
 > gRPC
 
