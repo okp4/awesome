@@ -81,7 +81,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 |               Thanks To                |                      URL                       | Status |
 |:--------------------------------------:|:----------------------------------------------:|:------:|
-|  [Chainlayer](https://chainlayer.io)   |     <https://okptest-rpc.quickapi.com:443>     |   ✅    |
+|  [Chainlayer](https://chainlayer.io)   |     <https://okptest-rpc.quickapi.com:443>     |   ❌    |
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network:26657> |   ✅    |
 |     [Nodeist](https://nodeist.net)     |         <https://rpc-okp4.nodeist.net>         |   ❌    |
 |     [Lavender.Five Nodes](https://lavenderfive.com)     |         <https://testnet-okp4-rpc.lavenderfive.com:443>         |   ❌    |
@@ -93,7 +93,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 |               Thanks To                |                      URL                      | Status |
 |:--------------------------------------:|:---------------------------------------------:|:------:|
-|  [Chainlayer](https://chainlayer.io)   |    <https://okptest-lcd.quickapi.com:443>     |   ✅    |
+|  [Chainlayer](https://chainlayer.io)   |    <https://okptest-lcd.quickapi.com:443>     |   ❌    |
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network:1317> |   ✅    |
 |     [Nodeist](https://nodeist.net)     |        <https://api-okp4.nodeist.net>         |   ❌    |
 |     [Lavender.Five Nodes](https://lavenderfive.com)    |        <https://testnet-okp4-api.lavenderfive.com:443>         |   ❌    |
