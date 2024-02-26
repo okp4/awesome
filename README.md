@@ -52,7 +52,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 | Thanks To                             | URL                              | Status |
 |---------------------------------------|----------------------------------|--------|
-| [OKP4](https://okp4.network)          | <https://faucet.okp4.network>    | ✅     |
+| [OKP4](https://okp4.network)          | <https://faucet.okp4.network>    | ❌     |
 
 ## 📚 Documentation / Guides
 
