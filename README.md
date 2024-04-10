@@ -22,17 +22,17 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 - <img
  src="assets/website.webp" style="width:15px;height:15px;"> [Website](https://okp4.network/)
 - <img
- src="assets/linkedin.webp" style="width:15px;height:15px;"> [LinkedIn](https://www.linkedin.com/company/okp4-open-knowledge-platform-for)
+ src="assets/linkedin.webp" style="width:15px;height:15px;"> [LinkedIn](https://www.linkedin.com/company/axone-protocol)
 - <img
- src="assets/twitter.webp" style="width:15px;height:15px;"> [Twitter](https://twitter.com/OKP4_Protocol)
+ src="assets/twitter.webp" style="width:15px;height:15px;"> [Twitter](https://twitter.com/axonexyz)
 - <img
  src="assets/github.webp" style="width:15px;height:15px;"> [GitHub](https://github.com/okp4)
 - <img
  src="assets/telegram.webp" style="width:15px;height:15px;"> [Telegram](https://t.me/okp4network)
 - <img
- src="assets/medium.webp" style="width:15px;height:15px;"> [Medium](https://blog.okp4.network/)
+ src="assets/medium.webp" style="width:15px;height:15px;"> [Medium](https://blog.axone.xyz/)
 - <img
- src="assets/discord.webp" style="width:15px;height:15px;"> [Discord](https://discord.com/invite/okp4)
+ src="assets/discord.webp" style="width:15px;height:15px;"> [Discord](https://discord.com/invite/axone)
 
 ## 🔭 Block Explorers
 
