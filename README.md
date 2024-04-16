@@ -73,7 +73,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Nodes & Validator Guide                | <https://github.com/cryptobtcbuyer/Testnet_guides/blob/main/OKP4/installation.md>    | ✅      | [cryptobtcbuyer](https://github.com/cryptobtcbuyer)                                      |
 | Monitoring and Alerting for Validators | <https://github.com/cryptobtcbuyer/Testnet_guides/blob/main/OKP4/monitoring.md>      | ✅      | [cryptobtcbuyer](https://github.com/cryptobtcbuyer)                                      |
 | Nodes & Validator Guide                | <https://nodestake.top/okp4>                                                         | ✅      | [NodeStake](https://nodestake.top/okp4)                                                |
-| OKP4 Guide                             | <https://github.com/obajay/nodes-Guides/tree/main/Projects/OKP4>                     | ✅      | [🔥STAVR🔥](https://github.com/obajay)                                                |
+| OKP4 Guide                             | <https://github.com/obajay/nodes-Guides/tree/main/Projects/OKP4>                     | ❌      | [🔥STAVR🔥](https://github.com/obajay)                                                |
 
 ## ⚙️ Services
 
@@ -122,7 +122,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Lavender.Five Nodes](https://lavenderfive.com)    | <https://snapshots.lavenderfive.com/testnet-addrbooks/okp4/addrbook.json>       | ✅      |
 | [NodeStake](https://nodestake.top/)    | <https://ss-t.okp4.nodestake.top/addrbook.json>                 | ❌    |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
-| [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#-useful-tools>  |   ✅    |
+| [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#-useful-tools>  |   ❌    |
 | [AutoStake](https://autostake.com)     | <https://snapshots.autostake.com/okp4-nemeton-1/addrbook.json>  | ❌      |
 
 > Snapshot
@@ -135,7 +135,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Lavender.Five Nodes](https://lavenderfive.com)     | <https://snapshots.lavenderfive.com/testnet-snapshots/okp4/latest.tar.lz4>          | ✅      |
 | [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                       | ✅    |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
-| [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#snapshot-04-gb-updated-every-5-hours>  |   ✅    |
+| [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#snapshot-04-gb-updated-every-5-hours>  |   ❌    |
 | [AutoStake](https://autostake.com)    | <https://snapshots.autostake.com/okp4-nemeton-1>   | ❌      |
 
 > State / Quick Sync
@@ -147,7 +147,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Nodeist](https://nodeist.net)         | <https://nodeist.net/Okp4/>                   | ✅     |
 | [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                  | ✅     |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
-| [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#statesync>  |   ✅    |
+| [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#statesync>  |   ❌    |
 
 > Live Peer
 
