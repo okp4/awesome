@@ -63,7 +63,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Nodes & Validator Guide                | <https://nodes.guru/okp4/setup-guide/en>                                             | ✅      | [Nodes Guru](https://nodes.guru/)                                                        |
 | Nodes & Validator Guide                | <https://nodeist.net/t/Okp4/Setup/>                                                  | ❌      | [Nodeist](https://nodeist.net/)                                                          |
 | Nodes & Validator Guide                | <https://nodeservice.nodersteam.com/title/testnets/okp4>                             | ✅      | [[NODERS]TEAM](https://noders-stake.com/)                                                |
-| Nodes & Validator Guide                | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>           | ❌      | [AVIAONE](https://aviaone.com)                                                           |
+| Nodes & Validator Guide                | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>           | ✅      | [AVIAONE](https://aviaone.com)                                                           |
 | Dev guidelines 👩‍💻                     | <https://work.okp4.com/dev/dev-home>                                                  | ✅      | [OKP4](https://github.com/okp4)                                                          |
 | OKP4 Snapshot guide                    | <https://github.com/Kolot86/My-guides/blob/main/OKP4_Sanpshot_Guide/OKP4.md>         | ✅      | [Kolot](https://github.com/Kolot86)                                                      |
 | Basic tools & Validator Guide          | <https://github.com/Cumulo-pro/OKP4#readme>                                          | ✅      | [Cumulo](https://github.com/Cumulo-pro)                                                  |
@@ -121,7 +121,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Chainlayer](https://chainlayer.io)    | <https://dl2.quicksync.io/json/addrbook.okp4testnet.json>       | ✅      |
 | [Lavender.Five Nodes](https://lavenderfive.com)    | <https://snapshots.lavenderfive.com/testnet-addrbooks/okp4/addrbook.json>       | ✅      |
 | [NodeStake](https://nodestake.top/)    | <https://ss-t.okp4.nodestake.top/addrbook.json>                 | ❌    |
-| [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ❌    |
+| [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#-useful-tools>  |   ❌    |
 | [AutoStake](https://autostake.com)     | <https://snapshots.autostake.com/okp4-nemeton-1/addrbook.json>  | ❌      |
 
@@ -134,7 +134,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Chainlayer](https://quickapi.com)     | <https://quicksync.io/networks/okp4.html>          | ✅      |
 | [Lavender.Five Nodes](https://lavenderfive.com)     | <https://snapshots.lavenderfive.com/testnet-snapshots/okp4/latest.tar.lz4>          | ✅      |
 | [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                       | ✅    |
-| [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ❌    |
+| [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#snapshot-04-gb-updated-every-5-hours>  |   ❌    |
 | [AutoStake](https://autostake.com)    | <https://snapshots.autostake.com/okp4-nemeton-1>   | ❌      |
 
@@ -146,7 +146,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [MELLIFERA](https://mellifera.network) | <https://mellifera.network/manuals/okp4.html> | ✅     |
 | [Nodeist](https://nodeist.net)         | <https://nodeist.net/Okp4/>                   | ✅     |
 | [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                  | ✅     |
-| [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ❌    |
+| [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#statesync>  |   ❌    |
 
 > Live Peer
