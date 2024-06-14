@@ -43,7 +43,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Ping Pub](https://github.com/ping-pub/) | Ping Pub | <https://ping.pub/okp4%20testnet?testnet>     | ✅     |
 | [L0vd](https://github.com/L0vd)          | Ping Pub | <https://explorers.l0vd.com/okp4-testnet>     | ✅     |
 | [Nodeist](https://github.com/Nodeist)    | Ping Pub | <https://exp.nodeist.net/t-okp4/staking>      | ❌     |
-| [PPNV Service](https://ppnv.space)       | Ping Pub | <https://explorer.ppnv.space/okp4>            | ✅     |
+| [PPNV Service](https://ppnv.space)       | Ping Pub | <https://explorer.ppnv.space/okp4>            | ❌     |
 | [ATOMScan](https://atomscan.com/)        | ATOMScan | <https://atomscan.com/testnet/okp4testnet>    | ✅     |
 | [NodeStake](https://nodestake.top/)      | Ping Pub | <https://explorer.nodestake.top/okp4-testnet> | ✅     |
 | [🔥STAVR🔥](https://github.com/obajay/)  | Ping Pub | <https://explorer.stavr.tech/okp4-testnet>    | ✅     |
@@ -62,7 +62,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Nodes & Validator Guide                | <https://docs.okp4.network/nodes/introduction>                                       | ✅      | [OKP4](https://github.com/okp4)                                                          |
 | Nodes & Validator Guide                | <https://nodes.guru/okp4/setup-guide/en>                                             | ✅      | [Nodes Guru](https://nodes.guru/)                                                        |
 | Nodes & Validator Guide                | <https://nodeist.net/t/Okp4/Setup/>                                                  | ❌      | [Nodeist](https://nodeist.net/)                                                          |
-| Nodes & Validator Guide                | <https://nodeservice.nodersteam.com/title/testnets/okp4>                             | ✅      | [[NODERS]TEAM](https://noders-stake.com/)                                                |
+| Nodes & Validator Guide                | <https://nodeservice.nodersteam.com/title/testnets/okp4>                             | ❌      | [[NODERS]TEAM](https://noders-stake.com/)                                                |
 | Nodes & Validator Guide                | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>           | ✅      | [AVIAONE](https://aviaone.com)                                                           |
 | Dev guidelines 👩‍💻                     | <https://work.okp4.com/dev/dev-home>                                                  | ✅      | [OKP4](https://github.com/okp4)                                                          |
 | OKP4 Snapshot guide                    | <https://github.com/Kolot86/My-guides/blob/main/OKP4_Sanpshot_Guide/OKP4.md>         | ✅      | [Kolot](https://github.com/Kolot86)                                                      |
