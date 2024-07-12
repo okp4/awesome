@@ -43,7 +43,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Ping Pub](https://github.com/ping-pub/) | Ping Pub | <https://ping.pub/okp4%20testnet?testnet>     | ✅     |
 | [L0vd](https://github.com/L0vd)          | Ping Pub | <https://explorers.l0vd.com/okp4-testnet>     | ✅     |
 | [Nodeist](https://github.com/Nodeist)    | Ping Pub | <https://exp.nodeist.net/t-okp4/staking>      | ❌     |
-| [PPNV Service](https://ppnv.space)       | Ping Pub | <https://explorer.ppnv.space/okp4>            | ✅     |
+| [PPNV Service](https://ppnv.space)       | Ping Pub | <https://explorer.ppnv.space/okp4>            | ❌     |
 | [ATOMScan](https://atomscan.com/)        | ATOMScan | <https://atomscan.com/testnet/okp4testnet>    | ✅     |
 | [NodeStake](https://nodestake.top/)      | Ping Pub | <https://explorer.nodestake.top/okp4-testnet> | ✅     |
 | [🔥STAVR🔥](https://github.com/obajay/)  | Ping Pub | <https://explorer.stavr.tech/okp4-testnet>    | ✅     |
@@ -72,7 +72,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | TMKMS Guide                            | <https://craving-for-knowledge.gitbook.io/craving_for_knowledge/testnets/okp4/tmkms> | ✅      | [Craving_for_Knowledge](https://craving-for-knowledge.gitbook.io/craving_for_knowledge/) |
 | Nodes & Validator Guide                | <https://github.com/cryptobtcbuyer/Testnet_guides/blob/main/OKP4/installation.md>    | ✅      | [cryptobtcbuyer](https://github.com/cryptobtcbuyer)                                      |
 | Monitoring and Alerting for Validators | <https://github.com/cryptobtcbuyer/Testnet_guides/blob/main/OKP4/monitoring.md>      | ✅      | [cryptobtcbuyer](https://github.com/cryptobtcbuyer)                                      |
-| Nodes & Validator Guide                | <https://nodestake.top/okp4>                                                         | ✅      | [NodeStake](https://nodestake.top/okp4)                                                |
+| Nodes & Validator Guide                | <https://nodestake.top/okp4>                                                         | ❌      | [NodeStake](https://nodestake.top/okp4)                                                |
 | OKP4 Guide                             | <https://github.com/obajay/nodes-Guides/tree/main/Projects/OKP4>                     | ❌      | [🔥STAVR🔥](https://github.com/obajay)                                                |
 
 ## ⚙️ Services
@@ -133,7 +133,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Nodeist](https://nodeist.net)         | <https://nodeist.net/Okp4/>                        | ✅      |
 | [Chainlayer](https://quickapi.com)     | <https://quicksync.io/networks/okp4.html>          | ✅      |
 | [Lavender.Five Nodes](https://lavenderfive.com)     | <https://snapshots.lavenderfive.com/testnet-snapshots/okp4/latest.tar.lz4>          | ✅      |
-| [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                       | ✅    |
+| [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                       | ❌    |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#snapshot-04-gb-updated-every-5-hours>  |   ❌    |
 | [AutoStake](https://autostake.com)    | <https://snapshots.autostake.com/okp4-nemeton-1>   | ❌      |
@@ -145,7 +145,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Chainlayer](https://quicksync.io)     | <https://quicksync.io/networks/okp4.html>     | ✅     |
 | [MELLIFERA](https://mellifera.network) | <https://mellifera.network/manuals/okp4.html> | ✅     |
 | [Nodeist](https://nodeist.net)         | <https://nodeist.net/Okp4/>                   | ✅     |
-| [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                  | ✅     |
+| [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                  | ❌     |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#statesync>  |   ❌    |
 
