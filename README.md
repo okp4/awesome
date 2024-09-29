@@ -119,7 +119,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [Nodeist](https://nodeist.net)         | <https://ss.nodeist.net/t/okp4/addrbook.json>                   | ❌      |
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network/snapshot/addrbook.json> | ❌      |
 | [Chainlayer](https://chainlayer.io)    | <https://dl2.quicksync.io/json/addrbook.okp4testnet.json>       | ✅      |
-| [Lavender.Five Nodes](https://lavenderfive.com)    | <https://snapshots.lavenderfive.com/testnet-addrbooks/okp4/addrbook.json>       | ❌      |
+| [Lavender.Five Nodes](https://lavenderfive.com)    | <https://snapshots.lavenderfive.com/testnet-addrbooks/okp4/addrbook.json>       | ✅      |
 | [NodeStake](https://nodestake.top/)    | <https://ss-t.okp4.nodestake.top/addrbook.json>                 | ❌    |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#-useful-tools>  |   ❌    |
@@ -132,7 +132,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network/snapshot/> | ❌      |
 | [Nodeist](https://nodeist.net)         | <https://nodeist.net/Okp4/>                        | ✅      |
 | [Chainlayer](https://quickapi.com)     | <https://quicksync.io/networks/okp4.html>          | ✅      |
-| [Lavender.Five Nodes](https://lavenderfive.com)     | <https://snapshots.lavenderfive.com/testnet-snapshots/okp4/latest.tar.lz4>          | ❌      |
+| [Lavender.Five Nodes](https://lavenderfive.com)     | <https://snapshots.lavenderfive.com/testnet-snapshots/okp4/latest.tar.lz4>          | ✅      |
 | [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                       | ❌    |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
 | [🔥STAVR🔥](https://github.com/obajay)     | <https://github.com/obajay/StateSync-snapshots/tree/main/Projects/OKP4#snapshot-04-gb-updated-every-5-hours>  |   ❌    |
