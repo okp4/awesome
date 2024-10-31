@@ -131,7 +131,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 |----------------------------------------|----------------------------------------------------|--------|
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network/snapshot/> | ❌      |
 | [Nodeist](https://nodeist.net)         | <https://nodeist.net/Okp4/>                        | ✅      |
-| [Chainlayer](https://quickapi.com)     | <https://quicksync.io/networks/okp4.html>          | ✅      |
+| [Chainlayer](https://quickapi.com)     | <https://quicksync.io/networks/okp4.html>          | ❌      |
 | [Lavender.Five Nodes](https://lavenderfive.com)     | <https://snapshots.lavenderfive.com/testnet-snapshots/okp4/latest.tar.lz4>          | ✅      |
 | [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                       | ❌    |
 | [AVIAONE](https://aviaone.com)         | <https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html>         |   ✅    |
@@ -142,7 +142,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 | Thanks To                              | URL                                           | Status |
 |----------------------------------------|-----------------------------------------------|--------|
-| [Chainlayer](https://quicksync.io)     | <https://quicksync.io/networks/okp4.html>     | ✅     |
+| [Chainlayer](https://quicksync.io)     | <https://quicksync.io/networks/okp4.html>     | ❌     |
 | [MELLIFERA](https://mellifera.network) | <https://mellifera.network/manuals/okp4.html> | ✅     |
 | [Nodeist](https://nodeist.net)         | <https://nodeist.net/Okp4/>                   | ✅     |
 | [NodeStake](https://nodestake.top/)    | <https://nodestake.top/okp4>                  | ❌     |
