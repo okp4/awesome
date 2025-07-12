@@ -1,5 +1,5 @@
 {
-  "name": "okp4-readme",
+  "name": "axone-readme",
   "version": "1.0.0",
   "description": "test",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/okp4/awesome.git"
+    "url": "git+https://github.com/axone-protocol/awesome.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/okp4/awesome/issues"
+    "url": "https://github.com/axone-protocol/awesome/issues"
   },
-  "homepage": "https://github.com/okp4/awesome#readme",
+  "homepage": "https://github.com/axone-protocol/awesome#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "fs": "^0.0.1-security",
