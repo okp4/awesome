@@ -5,18 +5,14 @@ updates:
     schedule:
       interval: daily
     reviewers:
-      - amimart
       - ccamel
     assignees:
-      - amimart
       - ccamel
   - package-ecosystem: npm
     directory: /.github/scripts
     schedule:
       interval: daily
     reviewers:
-      - amimart
       - ccamel
     assignees:
-      - amimart
       - ccamel
